@@ -1,3 +1,3 @@
 export function mod(a,b) {
-    return 0;
+    return a % b;
 }
