@@ -1,3 +1,3 @@
-export function div(a, b){
+export function division(a, b){
     return a/b;
 }
