@@ -1,4 +1,4 @@
-import { mod } from './addition';
+import { mod } from './mod';
 
 it('it should mod', () => {
     expect(mod(1,1)).toBe(0);
