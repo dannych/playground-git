@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1cdde02a-4f12-4685-a3df-92141732d08c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/utilities/addition.js" afterPath="$PROJECT_DIR$/src/utilities/addition.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/utilities/substraction.test.js" afterPath="$PROJECT_DIR$/src/utilities/substraction.test.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,8 +47,8 @@
       <file leaf-file-name="substraction.test.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/utilities/substraction.test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            <state relative-caret-position="34">
+              <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -264,12 +263,12 @@
       <option name="presentableId" value="Default" />
       <updated>1501552474407</updated>
       <workItem from="1501552476928" duration="1693000" />
-      <workItem from="1501557443536" duration="91000" />
+      <workItem from="1501557443536" duration="370000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2480000" />
+    <option name="totallyTimeSpent" value="2759000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -404,8 +403,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/utilities/substraction.test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        <state relative-caret-position="34">
+          <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
           <folding />
         </state>
       </provider>
